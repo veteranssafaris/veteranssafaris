@@ -1,0 +1,11 @@
+# basic options
+title: Veterans Safaris 
+author: Kavos
+email: your-email@domain.com
+description: The best travel site in Musanze 
+twitter_username: veteranstours
+github_username:  
+
+# Build settings
+markdown: kramdown
+theme: minima
