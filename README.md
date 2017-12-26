@@ -1,3 +1,4 @@
-# Veterans Safaris
 
-![image--title]("https://app.box.com/s/vyg609q2n3ewuwpaoqp4nd6ouy9056wb")
+![image--title](../assets/016.jpg)
+
+# Veterans Safaris
