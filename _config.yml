@@ -1,6 +1,6 @@
 # basic options
 title: Veterans Safaris 
-author: Kavos
+author: Mutembo Senyana Kavos
 email: your-email@domain.com
 description: The best travel site in Musanze 
 twitter_username: veteranstours
@@ -8,7 +8,6 @@ github_username:
 
 plugins:
   - jekyll-feed
-
 
 # Build settings
 markdown: kramdown
