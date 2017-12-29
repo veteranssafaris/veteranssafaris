@@ -20,6 +20,6 @@ theme: minima
 # - about.html 
 header_pages:
 - about.md
-- tourprogramsrwanda.md
+- tourprograms.md
 - trips.md
 - generalterms.md
