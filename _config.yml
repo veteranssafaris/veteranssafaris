@@ -1,8 +1,6 @@
 # basic options
 title: Veterans Safaris 
-author: Mutembo Senyana Kavos, Avenue de la Cooperation 195, 
-        Musanze/Ruhengeri, 
-        POBox 1101, Tel (+250) 788-405760
+author: Mutembo Senyana Kavos
 
 email: your-email@domain.com
 description: The best travel site in Musanze 
@@ -16,3 +14,12 @@ plugins:
 markdown: kramdown
 theme: minima
 
+# If you want to link only specific pages in your header, uncomment 
+# this and add the path to the pages in order as they should show up 
+# header_pages: 
+# - about.html 
+header_pages:
+- about.md
+- tourprogramsrwanda.md
+- trips.md
+- generalterms.md

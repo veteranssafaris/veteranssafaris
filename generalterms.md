@@ -1,6 +1,6 @@
 ---
 layout: page
-title: General Terms
+title: "General Terms"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Tour Programs Rwanda 7 days"
+exclude: true
 ---
 
 RWANDA – (7 nights / 8 days )
