@@ -3,7 +3,7 @@ layout: page
 title: "Tour Programs Rwanda 3 days"
 ---
 
-![19](/assets/19.jpg)
+![19](../assets/19.jpg)
 
 RWANDA – ( 3 nights / 4 days )
 November 18, 2016
