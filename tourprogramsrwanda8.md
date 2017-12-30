@@ -2,6 +2,7 @@
 layout: page
 title: "Tour Rwanda 8 days"
 ---
+[Back](/tourprograms.md)
 
 ![gorilla1](/assets/rwanda_8days_gorilla1.jpg)
 
@@ -89,3 +90,5 @@ Day 8 – GOLDEN MONKEYS TREK  + RETURN TO KIGALI & DEPART
 Time taken with the Golden Monkeys : 1hr) & (110kms / Drive time – 2hrs back to Kigali City)
 After breakfast at your Hotel leave for the Volcanoes NP, this time for Golden Monkeys trek. The adult monkeys frolic in plain view, feeding on bamboo leaves and leaping from perch to perch. Females carry their young, completely comfortable among onlookers. Return to your hotel to freshen up, have lunch and thereafter drive back to Kigali and proceed on to Kigali Airport for your evening departure flight.
 End of tour.
+
+[Back](/tourprograms.md)
