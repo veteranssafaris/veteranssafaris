@@ -3,7 +3,7 @@ layout: page
 title: "Tour Rwanda 8 days"
 ---
 
-![gorilla1](../assets/rwanda_8days_gorilla1.jpg)
+![gorilla1](/assets/rwanda_8days_gorilla1.jpg)
 
 RWANDA – (7 nights / 8 days )
 
