@@ -3,6 +3,8 @@ layout: page
 title: "Tour Rwanda 8 days"
 ---
 
+![gorilla1](../assets/rwanda_8days_gorilla1.jpg)
+
 RWANDA – (7 nights / 8 days )
 
 November 18, 2016
@@ -18,11 +20,12 @@ You will be met on arrival and be transferred to your Hotel for check in and fre
 
 Proposed Hotels
 
-     Beausejour Hotel 
-     Lemigo Hotel 
+    Beausejour Hotel 
+    Lemigo Hotel 
     Kigali Serena Hotel 
     Radison Blue Hotel Kigali
-    Day 2 – DRIVE TO NYUNGWE NP. (220kms / Drive time – 7hrs)
+    
+Day 2 – DRIVE TO NYUNGWE NP. (220kms / Drive time – 7hrs)
 
 08:00 AM: Breakfast at the Hotel and leave the City for Nyungwe National Park via Butare Museum visit and lunch. The drive will perfectly introduce you to the real
 
@@ -30,7 +33,7 @@ Rwanda....”Land of a Thousand Hill and a Million Smiles”. Curvy and a smooth
 
 Proposed Hotels
 
-     Emerald Kivu Hotel
+    Emerald Kivu Hotel
     Nyungwe Top View Hill Hotel 
     Nyungwe Forest Lodge 
 
@@ -47,7 +50,7 @@ Day 4 – DRIVE FROM NYUNGWE TO KIBUYE. (Distance : Approx. 120 Kms /Drive time 
 
 Proposed Hotels
 
-     Rwiza Village Hotel 
+    Rwiza Village Hotel 
     Cormoran Lodge
 
 Day 5 – BOAT TRANSFER FROM  KIBUYE TO GISENYI. (Cruise time – 2hrs)
@@ -59,7 +62,7 @@ He will then meet up with you at Gisenyi dock and proceed on to a City tour on G
 Proposed Hotels
 
     Paradise Malahide Beach Resort 
-     Waterfront Beach Resort
+    Waterfront Beach Resort
     Kivu Serena Hotel
 
 Day 6 –  DRIVE TO MUSANZE. (Distance : Approx. 60kms / Drive time – 1hr)
@@ -68,18 +71,18 @@ Have a relaxed breakfast at the Resort and thereafter and check out for a drive 
 
 Proposed Hotels
 
-     Best View Hotel 
-     Mountain Gorilla Villa View Lodge
-     Five Volcanoes Boutique Hotel 
-    The Gardner Place  Hotel
+    Best View Hotel 
+    Mountain Gorilla Villa View Lodge
+    Five Volcanoes Boutique Hotel 
+    The Gardner Place Hotel
 
 Day 7 – GORILLA TRACKING EXPERIENCE! (Distance : Approx. 35kms /Time with Gorillas : 1hr)
 
 06:30 AM: Enjoy an early breakfast and be transferred to Volcanoes National Park headquarters at Kinigi and for Gorilla tracking registration and briefing. Kindly ensure to have original passports to match the Gorilla permits details provided at the time of booking.
 
-By 07:00 : AM: You will be divided into groups of 8 persons per Park Guide and he will conduct a Gorilla tracking briefing on the dos and don’ts as well as the history of the Gorilla Family to be visited.
+By 07:00 AM: You will be divided into groups of 8 persons per Park Guide and he will conduct a Gorilla tracking briefing on the dos and don’ts as well as the history of the Gorilla Family to be visited.
 
-By 08:00: AM: Leave the headquarters to the head trail where you will begin the Gorilla tracking experience in the forest. Depending of where the Gorilla family allocated is on that particular day, the treks vary and ranges from Half Hour to about  6hrs. Good hiking boots, rain jackets, hats and hand gloves are recommended. After Gorilla tracking drive back to the lodge for freshen up and lunch. Afternoon at leisure around the lodge or find enough time to admire your photos and Videos on the Gorilla tracking activitie. Late afternoon enjoy the traditional dance with the local dancers.
+By 08:00 AM: Leave the headquarters to the head trail where you will begin the Gorilla tracking experience in the forest. Depending of where the Gorilla family allocated is on that particular day, the treks vary and ranges from Half Hour to about  6hrs. Good hiking boots, rain jackets, hats and hand gloves are recommended. After Gorilla tracking drive back to the lodge for freshen up and lunch. Afternoon at leisure around the lodge or find enough time to admire your photos and Videos on the Gorilla tracking activitie. Late afternoon enjoy the traditional dance with the local dancers.
 
 Day 8 – GOLDEN MONKEYS TREK  + RETURN TO KIGALI & DEPART
 
