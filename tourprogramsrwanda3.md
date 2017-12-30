@@ -3,8 +3,6 @@ layout: page
 title: "Tour Rwanda 3 days"
 ---
 
-[Back](/tourprograms.md) 
-
 Day 1 – ARRIVAL >> Drive to Volcanoes NP (115kms / 2hrs) 
 
 ![5](/assets/5.jpg)
@@ -35,4 +33,3 @@ Day 3 – GOLDEN MONKEYS TREK + DRIVE TO KIGALI (115kms / 2hrs)
 An early breakfast and head to the Park for Golden Monkey trekking in the Volcanoes National Park. Entering dense stands of bamboo interspersed with open glades; you will make your way deep into golden monkey territory. Guides lead visitors to the habitat of groups of ‘habituated’ golden monkeys – monkeys that have become accustomed to human presence. Though viewing is kept to a maximum of one hour, travellers can get an up-close look at the golden monkey in its natural habitat. Back to the Hotel for an early lunch and thereafter check out of the lodge / Hotel and drive back to Kigali Airport for your onward evening flight.
 End of services.
 
-[Back]({{ site.url }}/) 
