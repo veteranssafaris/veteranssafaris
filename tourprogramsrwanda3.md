@@ -3,7 +3,7 @@ layout: page
 title: "Tour Rwanda 3 days"
 ---
 
-[Back]({{ site.url }}/) 
+[Back]({{ site.url }}/tourprograms.md) 
 
 Day 1 – ARRIVAL >> Drive to Volcanoes NP (115kms / 2hrs) 
 
