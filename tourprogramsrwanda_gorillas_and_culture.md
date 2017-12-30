@@ -7,7 +7,6 @@ title: "Tour Rwanda Gorillas and Culture 7 days"
 ![intore](/assets/rwanda_gorillas_and_culture_intore.jpg)
 
 7 day Rwanda gorilla and cultural tour
-January 3, 2016
 
 The cultural tour begins with a trip to Umwami’s palace in Nyanza, proceeding to the locally revered hot springs of Rugarama near Nyungwe Forest in South West of Rwanda. You may drive to Gisenyi, where Ross Carr’s orphanage with thousands of orphans is found. Visit a local lake. End your trip in Ruhengeri, where the Batwa pigmies, an animist community were recently resettled. Here a cultural performance by the Batwa can be organized for you. In case you are interested in visiting the genocide memorials in Gisenyi, Butare and Ruhengeri, our tour guide will be able to take you there. You can now return to Kigali.
 

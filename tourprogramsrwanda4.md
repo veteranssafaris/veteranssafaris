@@ -7,7 +7,6 @@ title: "Tour Programs Rwanda 4 days"
 ![19](/assets/19.jpg)
 
 RWANDA – ( 3 nights / 4 days )
-November 18, 2016
 
 GORILLA TRACKING & LAKE KIVU TOUR – 3 NIGHTS / 4 DAYS
 

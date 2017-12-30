@@ -7,7 +7,6 @@ title: "Low Land Gorillas Tour in Kahuzi Biega National Park 4 Days"
 ![nyiaragongo](/assets/congo_low_land_gorillas.jpg)
 
 4 Days Low Land Gorillas Tour in Kahuzi Biega National Park
-January 3, 2016
 
 Day 1: Arrive at Kigali airport in Rwanda. You will be welcomed by our company safari guide who will transfer you to your hotel – Briefing and Overnight in Kigali.
 

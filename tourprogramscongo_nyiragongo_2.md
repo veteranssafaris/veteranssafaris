@@ -7,7 +7,6 @@ title: "Congo Nyiragongo Volcano Hike 2 Days"
 ![gorilla1](/assets/congo_nyiaragongo_climb.jpg)
 
 2-Day Nyiragongo Volcano Hike
-January 3, 2016
 
 Day 1:  Arrive in Gisenyi, Rwanda and transfer to Goma, DRC and drive to the Nyiragongo Volcano trail head in Virunga National Park. The climb up Nyiragongo takes around five hours, is strenuous and often in hot and uncomfortable conditions, but the path is relatively easy and not excessively steep; there are also a lot of rare birds and small mammals along the trail and the view, when you reach the top, is stunning and other-worldly.
 

@@ -8,8 +8,6 @@ title: "Tour Rwanda 8 days"
 
 RWANDA – (7 nights / 8 days )
 
-November 18, 2016
-
 PRIMATES TOUR – Nyungwe – Kibuye – Gisenyi – Volcanoes NP
 
 This proposal suits all clients’ desires of exciting experiences of getting one on one with the Primates here in Rwanda!!!

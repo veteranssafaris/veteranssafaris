@@ -5,7 +5,6 @@ title: "Tour Rwanda Akagera"
 [Back](/tourprograms.md)
 
 2 Days Akagera Wildlife Tour in Rwanda
-September 8, 2016
 
 ![akagera_zebra](/assets/rwanda_akagera_zebra.jpg)
 

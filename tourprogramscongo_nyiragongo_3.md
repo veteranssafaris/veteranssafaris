@@ -6,7 +6,6 @@ title: "Nyiragongo Volcano Tour in Virunga NP 3 Days"
 
 ![nyiaragongo](/assets/congo_nyiaragongo.jpg)
 3 Days Nyiragongo Volcano Tour in Virunga NP
-January 3, 2016
 
 Day 1: Arrival In Kigali And Transfer To Goma in The Democratic Republique Of Congo, Night at Ihusi Hotel.
 

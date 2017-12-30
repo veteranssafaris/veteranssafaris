@@ -7,7 +7,6 @@ title: "Tour Rwanda Gorillas and Golden Monkeys 4 Days"
 ![image](/assets/rwanda_gorillas_golden_monkeys.jpg)
 
 4 Days of Rwanda gorillas, primates with Golden Monkeys Tracking
-January 2, 2016
 
 This is a 4 day safari which starts and ends in Kigali- Rwanda. One gorilla permit for Parc Nationale des Volcanoes is included in the cost but the other gorilla trackings require other permits to be paid at time of booking. Having a chance to see some of the last remaining 880 mountain gorillas in the world is a wonderful experience. It offers you an opportunity to track gorillas two times. Parc Nationale des Volcanoes in Rwanda has five habituated gorilla families and tracking most groups in the afro-montane forest usually takes a few hours. You can also climb a volcano, visit the remains of Dian Fossey’s grave or visit the endangered golden monkey.
 

@@ -8,7 +8,6 @@ title: "Tour Rwanda Gorilla Tracking 2 Days"
 ![5](/assets/rwanda_gorillatracking_2days.jpg)
 
 2 Days Rwanda Gorilla tracking tour
-January 2, 2016 5 Comments	
 
 This is a 2 day safari which starts and ends in Kigali- Rwanda. One gorilla permit for Parc Nationale des Volcanoes is included in the cost. Having a chance to see some of the last remaining 880 mountain gorillas in the world is a wonderful experience. It offers you an opportunity to track gorillas in Volcanoes National Park of Rwanda.
 

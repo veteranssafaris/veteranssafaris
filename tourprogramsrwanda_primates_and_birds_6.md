@@ -7,7 +7,6 @@ title: "Tour Rwanda Primates and Birds 6 Days"
 ![gorilla1](/assets/rwanda_primates_and_birds.jpg)
 
 6 Days Gorillas, Chimpanzees, Primates and Birdwatching Tour in Rwanda – PNV and Nyungwe
-January 3, 2016
 
 A 6 day safari, which starts and ends in Kigali.
 The tour takes visits to Nyungwe, in South West of Rwanda, a huge afro-montane forest. With over 10000sq.km in size, Nyungwe is the undisputed giant in Central Africa. The natural forest is renowned for its large troops of colobus monkeys, chimpanzees, butterflies and a rich variety of orchids. Over 300 bird species have been recorded. Visit some cultural sites en route – the Museum in Butare and the palace at Nyanza.

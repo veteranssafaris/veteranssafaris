@@ -8,8 +8,6 @@ title: "Tour Rwanda Nyungwe Chimps 3 Days"
 
 3 Days Nyungwe Chimpanzee tour
 
-January 2, 2016 No Comments	
-
 Nyungwe is the largest montane forest in Central Africa with 13 species of primate; these include chimpanzee and large groups of Rwenzori colobus. Tracking in Nyungwe Forest National Park is on steep slippery hillsides and viewing is unpredictable. Around 300 bird species, orchids and butterflies are other attractions. Nyungwe’s biodiversity is astonishnyungwe chimps touring by African standards and is one of the most endemic species-rich areas in whole of Africa.
 
 Day 1: Transfer to Nyungwe Forest National Park

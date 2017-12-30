@@ -8,7 +8,6 @@ title: "Tour Rwanda Gorilla Tracking 3 days... revisited"
 ![5](/assets/rwanda_gorillatracking_3days.jpg)
 
 3 Days Rwanda Gorilla tracking tour
-January 2, 2016 1 Comment	
 
 This is a 3 day safari which starts and ends in Kigali- Rwanda. One gorilla permit for Parc Nationale des Volcanoes is included in the cost. Having a chance to see some of the last remaining 880 mountain gorillas in the world is a wonderful experience. It offers you an opportunity to track gorillas in Parc Nationale des Volcanoes in Rwanda has 10 habituated gorilla families and tracking most groups in the afro-montane forest usually takes a few hours.
 
