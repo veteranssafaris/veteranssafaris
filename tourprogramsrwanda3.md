@@ -5,7 +5,7 @@ title: "Tour Rwanda 3 days"
 
 Day 1 – ARRIVAL >> Drive to Volcanoes NP (115kms / 2hrs) 
 
-![5](../../assets/5.jpg)
+![5](/assets/5.jpg)
 
 
 Arrive morning/lunchtime at Kigali International Airport and be met by your Driver Guide for a brief of your Rwanda visits. The Kigali city tours will specially welcome you to this “Land of a Thousand Hills”.
