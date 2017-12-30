@@ -21,3 +21,4 @@ We have the following packages for you:
 13. [Congo DRC Nyiragongo Volcano Hike and Gorilla Tracking In Virunga 5 days](tourprogramscongo_nyiragongo_gorillas_5.md)
 14. [Congo DRC Low Land Gorillas Tour in Kahuzi Biega National Park 4 Days](tourprogramscongo_kahuzibiega.md)
 
+15. [Honeymoon Tour](tourprogramsrwanda_honeymoon.md)
