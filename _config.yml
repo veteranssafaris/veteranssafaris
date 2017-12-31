@@ -4,12 +4,12 @@ author: Mutembo Senyana Kavos
 
 email: veteranstours@gmail.com
 description: The best travel site in Musanze 
-twitter_username: veteranstours
 github_username: veteranssafaris
+twitter_username: veteranstours
 facebook_username: hikenyiragongovolcano
 linkedin_username: mutembo-senyana-27b4958b
-google_plus_username: googleplus
 instagram_username: veteranstours
+google_plus_username: googleplus
 
 plugins:
   - jekyll-feed
