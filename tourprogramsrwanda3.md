@@ -37,7 +37,5 @@ An early breakfast and head to the Park for Golden Monkey trekking in the Volcan
 End of services..
 
 [Back](/tourprograms.md)
-=======
-End of services.
 
->>>>>>> 6eacf5298809d397f68fbb5c56b4885c48be7649
+End of services.
