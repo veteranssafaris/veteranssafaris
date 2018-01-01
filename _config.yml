@@ -28,6 +28,8 @@ header_pages:
 - tourprograms.md
 - car_hire.md
 - generalterms.md
+- Markdown_Examples.md
+
 
 defaults:
   # _posts

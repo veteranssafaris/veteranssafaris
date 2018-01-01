@@ -1,3 +1,118 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-31T14:28:40+02:00</updated><id>http://localhost:4000/</id><title type="html">Veterans Safaris</title><subtitle>The best travel site in Musanze</subtitle><author><name>Mutembo Senyana Kavos</name></author><entry><title type="html">Fourth Post</title><link href="http://localhost:4000/2017/12/27/fourth-post.html" rel="alternate" type="text/html" title="Fourth Post" /><published>2017-12-27T00:00:00+02:00</published><updated>2017-12-27T00:00:00+02:00</updated><id>http://localhost:4000/2017/12/27/fourth-post</id><content type="html" xml:base="http://localhost:4000/2017/12/27/fourth-post.html">&lt;p&gt;Fourth post&lt;/p&gt;</content><author><name>Mutembo Senyana Kavos</name></author><summary type="html">Fourth post</summary></entry><entry><title type="html">Third Post</title><link href="http://localhost:4000/2017/12/26/third-post.html" rel="alternate" type="text/html" title="Third Post" /><published>2017-12-26T00:00:00+02:00</published><updated>2017-12-26T00:00:00+02:00</updated><id>http://localhost:4000/2017/12/26/third-post</id><content type="html" xml:base="http://localhost:4000/2017/12/26/third-post.html">&lt;p&gt;Third post&lt;/p&gt;</content><author><name>Mutembo Senyana Kavos</name></author><summary type="html">Third post</summary></entry><entry><title type="html">Second Post</title><link href="http://localhost:4000/2017/12/25/second-post.html" rel="alternate" type="text/html" title="Second Post" /><published>2017-12-25T00:00:00+02:00</published><updated>2017-12-25T00:00:00+02:00</updated><id>http://localhost:4000/2017/12/25/second-post</id><content type="html" xml:base="http://localhost:4000/2017/12/25/second-post.html">&lt;p&gt;second post&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-01T13:53:52+02:00</updated><id>http://localhost:4000/</id><title type="html">Veterans Safaris</title><subtitle>The best travel site in Musanze</subtitle><author><name>Mutembo Senyana Kavos</name></author><entry><title type="html">Formatting Examples with Markdown</title><link href="http://localhost:4000/2018/01/01/new-post.html" rel="alternate" type="text/html" title="Formatting Examples with Markdown" /><published>2018-01-01T00:00:00+02:00</published><updated>2018-01-01T00:00:00+02:00</updated><id>http://localhost:4000/2018/01/01/new-post</id><content type="html" xml:base="http://localhost:4000/2018/01/01/new-post.html">&lt;p&gt;Markdown Examples&lt;/p&gt;
+
+&lt;p&gt;Bold 	&lt;strong&gt;text&lt;/strong&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;**text**&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Emphasize 	&lt;em&gt;text&lt;/em&gt;  &lt;code class=&quot;highlighter-rouge&quot;&gt;*text*&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Strike-through 	&lt;del&gt;text&lt;/del&gt; 	&lt;code class=&quot;highlighter-rouge&quot;&gt;~~text~~&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Link 	&lt;a href=&quot;http://&quot;&gt;title&lt;/a&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;[title](http://)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Inline Code  ` &lt;code class=&quot;highlighter-rouge&quot;&gt;code&lt;/code&gt; `&lt;/p&gt;
+
+&lt;p&gt;Image 	&lt;img src=&quot;http://&quot; alt=&quot;alt&quot; /&gt;   &lt;code class=&quot;highlighter-rouge&quot;&gt;![alt](http://)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;List 	* item 	&lt;code class=&quot;highlighter-rouge&quot;&gt;* item&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Blockquote 	 &amp;gt; quote&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;block quote&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Headers&lt;br /&gt;
+Headers are set using a hash before the title. The number of hashes before the title text will determine the depth of the header. Header depths are from 1-6&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;H1 : # Header 1
+
+H2 : ## Header 2
+
+H3 : ### Header 3
+
+H4 : #### Header 4
+
+H5 : ##### Header 5
+
+H6 : ###### Header 6
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Text Styling&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Links : [Title](URL)
+Bold : **Bold**
+Italicize : *Italics*
+Strike-through : ~~text~~
+Highlight : ==text==
+Paragraphs : Line space between paragraphs
+Line break : Add two spaces to the end of the line
+Lists : * an asterisk for every new list item.
+Quotes : &amp;gt; Quote
+Inline Code : `alert('Hello World');`
+Horizontal Rule (HR) : --------
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Images&lt;br /&gt;
+You can drag and drop images (.png, .gif, .jpg) from your Desktop over the editor to include them with your post, or alternatively click the image icon from the editor toolbar to use a standard image upload popup.&lt;/p&gt;
+
+&lt;p&gt;Adding Alt Text&lt;br /&gt;
+To add alt text to your image, all you need to do is place the text in-between the square brackets, e.g;&lt;br /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;![This is an alt text](image.jpg)&lt;/code&gt;
+ &lt;img src=&quot;image.jpg&quot; alt=&quot;This is an alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hyperlinking Images&lt;br /&gt;
+To hyperlink your image, wrap the image markdown in the markdown for creating a link. E.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;[![Image Alt (/Text]path_to_linked_image)]&lt;/code&gt; (path_to_linked_image)&lt;/p&gt;
+
+&lt;p&gt;Clickable Images&lt;br /&gt;
+Though this is not Markdown, you can make images like the one below active as links. (If you click the image, you’ll go to the home page of the World Wide Web Consortium http://www.w3.org)&lt;/p&gt;
+
+&lt;p&gt;Actually, it’s trivial. Anything between an  opening tag &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;a&amp;gt;&lt;/code&gt; and closing tag &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;/a&amp;gt;&lt;/code&gt; becomes active. Just put your &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;img&amp;gt;&lt;/code&gt; tag between the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;a&amp;gt;&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;/a&amp;gt;&lt;/code&gt;, and it will become active too. Here’s the code for the image:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;a href=&quot;http://www.w3.org&quot;&amp;gt;&amp;lt;img src=&quot;/assets/Aussicht.jpg&quot;
+  width=&quot;72&quot; height=&quot;46&quot; border=&quot;0&quot; /&amp;gt;&amp;lt;/a&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.w3.org&quot;&gt;&lt;img src=&quot;/assets/Aussicht.jpg&quot; alt=&quot;Aussicht&quot; width=&quot;72&quot; height=&quot;46&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Footnotes&lt;br /&gt;
+Footnotes can be added to the body of your text using placeholders like this: &lt;code class=&quot;highlighter-rouge&quot;&gt;[^1]&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;[^note]&lt;/code&gt; coupled with the note text at the end of the document. For example:&lt;/p&gt;
+
+&lt;p&gt;Here is a footnote reference,&lt;code class=&quot;highlighter-rouge&quot;&gt;[^1]&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Then at the end of your post:&lt;/p&gt;
+
+&lt;p&gt;1 Here is a footnote reference,&lt;/p&gt;
+
+&lt;p&gt;Writing Code&lt;br /&gt;
+Inline code can be added using triple back-ticks E.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;alert('`Hello World')&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;header&amp;gt;
+    &amp;lt;h1&amp;gt;&amp;lt;/h1&amp;gt;
+&amp;lt;/header&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Examples&lt;/p&gt;
+
+&lt;p&gt;Link Markdown Example&lt;/p&gt;
+
+&lt;p&gt;This is a paragraph that contains a &lt;code class=&quot;highlighter-rouge&quot;&gt;[link to ghost](http://ghost.org)&lt;/code&gt; &lt;a href=&quot;http://ghost.org&quot;&gt;link to ghost&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;List Markdown Example&lt;/p&gt;
+
+&lt;p&gt;This paragraph contains a list of items.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Item 1 &lt;code class=&quot;highlighter-rouge&quot;&gt;*Item 1&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Item 2 &lt;code class=&quot;highlighter-rouge&quot;&gt;*Item 2&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Item three &lt;code class=&quot;highlighter-rouge&quot;&gt;*Item three&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Quote Markdown Example&lt;/p&gt;
+
+&lt;p&gt;This paragraph has a quote&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;That is pulled out like this  &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;gt; That is pulled out like this&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;from the text my post.&lt;/p&gt;</content><author><name>Mutembo Senyana Kavos</name></author><summary type="html">Markdown Examples</summary></entry><entry><title type="html">Fourth Post</title><link href="http://localhost:4000/2017/12/27/fourth-post.html" rel="alternate" type="text/html" title="Fourth Post" /><published>2017-12-27T00:00:00+02:00</published><updated>2017-12-27T00:00:00+02:00</updated><id>http://localhost:4000/2017/12/27/fourth-post</id><content type="html" xml:base="http://localhost:4000/2017/12/27/fourth-post.html">&lt;p&gt;Fourth post&lt;/p&gt;</content><author><name>Mutembo Senyana Kavos</name></author><summary type="html">Fourth post</summary></entry><entry><title type="html">Third Post</title><link href="http://localhost:4000/2017/12/26/third-post.html" rel="alternate" type="text/html" title="Third Post" /><published>2017-12-26T00:00:00+02:00</published><updated>2017-12-26T00:00:00+02:00</updated><id>http://localhost:4000/2017/12/26/third-post</id><content type="html" xml:base="http://localhost:4000/2017/12/26/third-post.html">&lt;p&gt;Third post&lt;/p&gt;</content><author><name>Mutembo Senyana Kavos</name></author><summary type="html">Third post</summary></entry><entry><title type="html">Second Post</title><link href="http://localhost:4000/2017/12/25/second-post.html" rel="alternate" type="text/html" title="Second Post" /><published>2017-12-25T00:00:00+02:00</published><updated>2017-12-25T00:00:00+02:00</updated><id>http://localhost:4000/2017/12/25/second-post</id><content type="html" xml:base="http://localhost:4000/2017/12/25/second-post.html">&lt;p&gt;second post&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../../assets/Aussicht.jpg&quot; alt=&quot;imagetitle&quot; /&gt;&lt;/p&gt;</content><author><name>Mutembo Senyana Kavos</name></author><summary type="html">second post</summary></entry><entry><title type="html">A Great First Post</title><link href="http://localhost:4000/2017/12/24/first-post.html" rel="alternate" type="text/html" title="A Great First Post" /><published>2017-12-24T00:00:00+02:00</published><updated>2017-12-24T00:00:00+02:00</updated><id>http://localhost:4000/2017/12/24/first-post</id><content type="html" xml:base="http://localhost:4000/2017/12/24/first-post.html">&lt;p&gt;Contents of the first post&lt;/p&gt;</content><author><name>Mutembo Senyana Kavos</name></author><summary type="html">Contents of the first post</summary></entry></feed>
