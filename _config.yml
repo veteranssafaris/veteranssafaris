@@ -11,6 +11,9 @@ linkedin_username: mutembo-senyana-27b4958b
 instagram_username: veteranstours
 google_plus_username: googleplus
 
+
+baseurl: /veteranssafaris
+
 plugins:
   - jekyll-feed
   - jekyll-maps
