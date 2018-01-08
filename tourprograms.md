@@ -5,7 +5,9 @@ title: "Tour Programs"
 
 We have the following packages for you:
 
-# Rwanda
+# Rwanda 
+
+{% include list_rwanda.html %}
 
 1. [All Primates Tour 8 Days / 9 Nights](tourprogramsrwanda8.md)
 2. [Primates, Golden Monkeys 4 Days / 3 Nights](tourprogramsrwanda4.md)
