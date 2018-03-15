@@ -3,9 +3,9 @@ layout: page
 title: "Tour Rwanda Gorilla Tracking 2 Days"
 ---
 
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)
 
-![5](/assets/rwanda_gorillatracking_2days.jpg)
+![5](../assets/rwanda_gorillatracking_2days.jpg)
 
 2 Days Rwanda Gorilla tracking tour
 
@@ -26,4 +26,4 @@ Have breakfast and go to RDB offices for briefing after that set off in the fore
 
 After drive back to the Hotel for lunch, drive back to Kigali and transfer at Airport for your flight.
 
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)

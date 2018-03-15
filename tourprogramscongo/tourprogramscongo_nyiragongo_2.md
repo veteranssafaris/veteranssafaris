@@ -2,9 +2,9 @@
 layout: page
 title: "Congo Nyiragongo Volcano Hike 2 Days"
 ---
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)
 
-![gorilla1](/assets/congo_nyiaragongo_climb.jpg)
+![gorilla1](../assets/congo_nyiaragongo_climb.jpg)
 
 2-Day Nyiragongo Volcano Hike
 

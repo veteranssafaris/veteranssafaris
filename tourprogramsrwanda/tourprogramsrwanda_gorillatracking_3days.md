@@ -3,9 +3,9 @@ layout: page
 title: "Tour Rwanda Gorilla Tracking 3 days... revisited"
 ---
 
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)
 
-![5](/assets/rwanda_gorillatracking_3days.jpg)
+![5](../assets/rwanda_gorillatracking_3days.jpg)
 
 3 Days Rwanda Gorilla tracking tour
 
@@ -26,4 +26,4 @@ Following breakfast, you will leave for Kigali. Go for a City tour including vis
 
 END OF THE RWANDA GORILLA SAFARI
 
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)

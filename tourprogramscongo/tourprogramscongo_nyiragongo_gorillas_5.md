@@ -3,9 +3,9 @@ layout: page
 title: "Nyiragongo Volcano Hike and Gorilla Tracking In Virunga 5 days"
 ---
 
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)
 
-![nyiaragongo](/assets/congo_nyiaragongo_top.jpg)
+![nyiaragongo](../assets/congo_nyiaragongo_top.jpg)
 5 days Nyiragongo Volcano Hike and Gorilla Tracking In Virunga
 
 Day1 :Arrival In Kigali And Transfer To Goma in The Democratic Republique Of Congo, Night at Ihusi Hotel.

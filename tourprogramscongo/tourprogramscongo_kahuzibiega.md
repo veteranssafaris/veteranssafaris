@@ -2,9 +2,9 @@
 layout: page
 title: "Low Land Gorillas Tour in Kahuzi Biega National Park 4 Days"
 ---
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)
 
-![nyiaragongo](/assets/congo_low_land_gorillas.jpg)
+![nyiaragongo](../assets/congo_low_land_gorillas.jpg)
 
 4 Days Low Land Gorillas Tour in Kahuzi Biega National Park
 
@@ -16,4 +16,4 @@ Day 3 : After early Breakfast – transfer by our tourist car to the National Pa
 
 Day 4: Back To Kigali or Transfer To Goma For Nyiragongo Hiking.
 
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)

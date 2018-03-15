@@ -2,9 +2,9 @@
 layout: page
 title: "Honeymoon Tour"
 ---
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)
 
-![gorilla1](/assets/honeymoon_boat.jpg)
+![gorilla1](../assets/honeymoon_boat.jpg)
 
 Honey Moon Tour
 
@@ -18,8 +18,8 @@ All of our honeymoon itineraries in Rwanda are tailor-made. With the following R
 
 These ideas are merely suggestions and we can tweak and tailor-make everything to exactly what you want to do on your honeymoon.
 
-![gorilla1](/assets/honeymoon_2.jpg)
+![gorilla1](../assets/honeymoon_2.jpg)
 
 Ruhondo lake
 
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)

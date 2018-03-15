@@ -2,9 +2,9 @@
 layout: page
 title: "Nyiragongo Volcano Tour in Virunga NP 3 Days"
 ---
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)
 
-![nyiaragongo](/assets/congo_nyiaragongo.jpg)
+![nyiaragongo](./assets/congo_nyiaragongo.jpg)
 3 Days Nyiragongo Volcano Tour in Virunga NP
 
 Day 1: Arrival In Kigali And Transfer To Goma in The Democratic Republique Of Congo, Night at Ihusi Hotel.
@@ -22,4 +22,4 @@ Day 3: An early breakfast and then begin your descent by 7 or 8 am.
 
 Arrive at the trail head before lunch and transfer back to Rwanda border.
 
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)
