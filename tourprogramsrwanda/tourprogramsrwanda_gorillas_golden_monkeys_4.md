@@ -2,9 +2,9 @@
 layout: page
 title: "Tour Rwanda Gorillas and Golden Monkeys 4 Days"
 ---
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)
 
-![image](/assets/rwanda_gorillas_golden_monkeys.jpg)
+![image](../assets/rwanda_gorillas_golden_monkeys.jpg)
 
 4 Days of Rwanda gorillas, primates with Golden Monkeys Tracking
 
@@ -37,4 +37,4 @@ Day 4:KIGALI CITY TOUR AND RETURN HOME
 Following breakfast, you will leave for Kigali. Go for a City tour including visits to the market, a pottery project, handicraft shops, the Franco-Rwandan cultural centre and the genocide memorial. Have lunch enroute and then Transfer to the airport.
 END OF THE RWANDA GORILLA SAFARI
 
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)

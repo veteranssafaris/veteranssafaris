@@ -2,9 +2,9 @@
 layout: page
 title: "Tour Rwanda Gorillas and Culture 7 days"
 ---
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)
 
-![intore](/assets/rwanda_gorillas_and_culture_intore.jpg)
+![intore](../assets/rwanda_gorillas_and_culture_intore.jpg)
 
 7 day Rwanda gorilla and cultural tour
 
@@ -17,13 +17,8 @@ After breakfast transfer to Nyungwe Forest with stop-over at local markets along
 
 Day 2: A trip to Butare Cultural Museum
 After breakfast tour the Botanical Gardens and a cultural museum in Butare. Then transfer to the hot springs in Bugarama. Dinner and overnight at Nyungwe Forest Lodge (BLD)
----
-layout: page
-title: "Tour Programs Rwanda Nyungwe and Chimpanzees 3 Days"
----
-[Back](/tourprograms.md)
 
-![nyungwe_chimp](/assets/rwanda_nyungwe_chimpanzee.jpg)
+![nyungwe_chimp](../assets/rwanda_nyungwe_chimpanzee.jpg)
 
 Day 3: Lake Kivu Tour
 After breakfast undertake a primates tracking tour in the Nyungwe Forest in search of immense troops of Angolan Colobus and the Golden monkeys, and the chimpanzees. In the afternoon after your lunch, drive to Gisenyi. Enjoy swimming in the bilharzia-free fresh water of Lake Kivu. The background of the lake is beautified by Nyiragongo Volcano which recently erupted in 2002. Dinner and overnight at Lake Kivu Serena Hotel (FB)
@@ -39,11 +34,11 @@ Dinner and overnight at Mountain View Lodge/The Garden House
 Day 6: Touring Karisoke Gorilla Research Centre
 After breakfast tour Karisoke Gorilla Research Centre started by Dian Fossey, the famous primatologist. Later in the day transfer back to Kigali. In case you still have time, you can have a city tour – visit the Nyabugogo market, the Moslem quarter in Nyamirambo, the Franco-Rwanda cultural center and a genocide memorial Centre.
 
-![food_prep](/assets/rwanda_gorillas_and_culture_food_prep.jpg)
+![food_prep](../assets/rwanda_gorillas_and_culture_food_prep.jpg)
 
 Traditional Food Preparation
 
 Day 7:  Shopping souvenir  and  flight out of Rwanda.
 
 
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)

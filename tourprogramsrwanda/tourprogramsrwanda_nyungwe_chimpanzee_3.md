@@ -2,9 +2,9 @@
 layout: page
 title: "Tour Rwanda Nyungwe Chimps 3 Days"
 ---
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)
 
-![gorilla1](/assets/rwanda_nyungwe_chimpanzee.jpg)
+![gorilla1](../assets/rwanda_nyungwe_chimpanzee.jpg)
 
 3 Days Nyungwe Chimpanzee tour
 
@@ -31,3 +31,5 @@ This safari quotation includes;
 – A 4×4 comfortable safari vehicles.
 – Professional fulltime English speaking Driver Guide.
 But excludes International Airfare, visas (where applicable), laundry, beverages, tips and other personal expenses.
+
+[Back](../tourprograms.md)

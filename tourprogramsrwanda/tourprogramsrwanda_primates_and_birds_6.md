@@ -2,9 +2,9 @@
 layout: page
 title: "Tour Rwanda Primates and Birds 6 Days"
 ---
-[Back](/tourprograms.md)
+[Back](../tourprograms.md)
 
-![gorilla1](/assets/rwanda_primates_and_birds.jpg)
+![gorilla1](../assets/rwanda_primates_and_birds.jpg)
 
 6 Days Gorillas, Chimpanzees, Primates and Birdwatching Tour in Rwanda – PNV and Nyungwe
 
@@ -18,6 +18,9 @@ DAY 3: Return to Kigali. Along the way, in Butare, visit the Botanical Gardens a
 
 DAY 4:Transfer to Kinigi Park Headquarters to track gorillas in Parc National des Volcans. Gorilla tracking through the forest, hills and swamps can be tough, arduous and tiring, sometimes taking up to 8 hours in the forest. But coming face to face with the great primates is well worth the effort.
 Accommodation options available (all on full board basis)
+
+[Back](../tourprograms.md)
+
 
 DAY 5: Gorilla Trekking, Parc National des Volcans
 Have breakfast and go to ORTPN offices for briefing after that set off in the forest for Gorilla trekking. A thrilling trek through the refined foothills of the Virungas provides inspiring views in all directions. Then, suddenly, the trail enters the national park, engrossing trekkers in the strange closeness of the rainforest, alive with the calls of colorful birds and chattering of the rare golden monkey, and besieged with fresh spoor of the mountains’ elusive populations of buffalo and elephant. Through gaps in the forest canopy, the marvelous peaks are sighted, easily easy to get to and among the uppermost in Africa, indicating an ascent. Gorilla trekking is quite strenuous but a worthwhile on encounter of these gentle giants. The enthusiasm of your coming across with these apes will wipe away your intricacy of the strenuous trek. Spend time watching gorillas, watch the adults feeding their young ones, brushing and resting as the youngsters play from vines in a pleasurably playful display.

@@ -21,7 +21,7 @@ Proposed Hotels
      Virunga Lodge AI or Governors Sabyinyo Silverback Lodge AI
 
 
-Day 2 – GORILLA TRACKING (Time taken with Gorillas: 1hr) + TWIN LAKES VISIT
+# Day 2 – GORILLA TRACKING (Time taken with Gorillas: 1hr) + TWIN LAKES VISIT
 
 Early breakfast and proceed to the National Park headquarters for a Gorilla tracking experience in the Volcanoes National Park. Once you spot them you are allowed to spend an hour watching.
 
@@ -30,12 +30,8 @@ Budget – Garden House FB
 Mid-Range – Mountain Gorilla View Lodge FB
 High End – Virunga Lodge AI or Governors Sabyinyo Silverback Lodge AI
 
-Day 3 – GOLDEN MONKEYS TREK + DRIVE TO KIGALI (115kms / 2hrs)
+# Day 3 – GOLDEN MONKEYS TREK + DRIVE TO KIGALI (115kms / 2hrs)
 
 An early breakfast and head to the Park for Golden Monkey trekking in the Volcanoes National Park. Entering dense stands of bamboo interspersed with open glades; you will make your way deep into golden monkey territory. Guides lead visitors to the habitat of groups of ‘habituated’ golden monkeys – monkeys that have become accustomed to human presence. Though viewing is kept to a maximum of one hour, travellers can get an up-close look at the golden monkey in its natural habitat. Back to the Hotel for an early lunch and thereafter check out of the lodge / Hotel and drive back to Kigali Airport for your onward evening flight.
-<<<<<<< HEAD
-End of services..
 
 [Back](../tourprograms.md)
-
-End of services.

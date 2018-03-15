@@ -18,7 +18,7 @@ Arrive morning/lunchtime at Kigali International Airport and be met by your Driv
      Mountain Gorilla View Lodge 
      Virunga Lodge AI or Governors Sabyinyo Silverback Lodge AI
 
-Day 2 – GORILLA TRACKING (Time taken with Gorillas:1hr)  +  TWIN LAKES VISIT
+# Day 2 – GORILLA TRACKING (Time taken with Gorillas:1hr)  +  TWIN LAKES VISIT
 
 Early breakfast and proceed to the National Park headquarters for a Gorilla tracking experience in the Volcanoes National Park. Once you spot them you are allowed to spend an hour watching. This is perhaps one of the most breathtaking wildlife experiences on earth!!! You get so close to these awesome giant primates. Tracking the gorillas through the light mountain forest on the slopes of the Virunga is a magical experience. The trekking may be fairly strenuous; sometimes up to six hours or longer at a relatively high altitude. Your driver guide to request a shorter group for you if you cannot trek far OR if you have another activity in the afternoon. It is important to bring good hiking boots, long trousers, gloves for protection against stinging nettles, some snacks & sweets as well as sufficient water to re-energize yourselves. After Gorilla tracking return to your Lodge for lunch and in the afternoon visit the Twin Lakes of Lakes Burera and Ruhondo, no additional costs on this. You will drive to the view point where you will view the two lakes and the entire beautiful scenery of the five Volcanic Mountains stretching all the way to Congo DRC borders. This provides very good photos covering the ONLY HOME of the “GORILLAS IN THE MIST” in the World! Dinner and overnight at your Hotel.
 Budget – Garden House FB
